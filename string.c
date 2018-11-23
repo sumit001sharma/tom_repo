@@ -2,7 +2,8 @@
 
 compare string
 
-void my_strlen(char *s)
+void my_strlen(const char *s)
+
 {
    char *p = s;
 
