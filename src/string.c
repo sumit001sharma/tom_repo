@@ -1,6 +1,9 @@
 #include <stdio.h>
 
+compare string
+
 void my_strlen(const char *s)
+
 {
    char *p = s;
 
