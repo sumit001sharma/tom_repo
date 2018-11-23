@@ -8,7 +8,7 @@ void my_strlen(const char *s)
    char *p = s;
 
    while (*p)
-      ++p;
+      ++p;s
 
    return (p - s);
 }
@@ -30,3 +30,5 @@ int main(void)
 }
 
 //working on new features...
+
+//new comment
